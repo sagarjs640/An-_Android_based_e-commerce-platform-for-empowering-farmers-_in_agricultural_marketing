@@ -3,7 +3,15 @@
 
 ## 📱 Screenshots
 
-_Add screenshots of the app UI here for better visualization._
+![image](https://github.com/user-attachments/assets/11efc1df-a16b-4bce-ae91-26cb0958a389)
+![image](https://github.com/user-attachments/assets/ac09714b-2093-4238-879e-4bec686c1f94)
+![image](https://github.com/user-attachments/assets/e9d2da75-c87f-47e2-bf24-f9e157863411)
+![image](https://github.com/user-attachments/assets/d4940174-3aa9-47d8-994d-bf6bc1b20f81)
+![image](https://github.com/user-attachments/assets/eddf2d4b-0250-44bb-bec9-6f93cb32bdf5)
+![image](https://github.com/user-attachments/assets/9bbe4533-3aab-4c98-aa8d-43d2bc7836c5)
+![image](https://github.com/user-attachments/assets/4883776f-733b-43eb-8c12-b97ddb77e725)
+![image](https://github.com/user-attachments/assets/0ce3d7fd-68e8-48f0-87ef-a8ee34c34a41)
+![image](https://github.com/user-attachments/assets/3a7a1f06-35a6-4b17-952c-423839d31ccb)
 
 ---
 
